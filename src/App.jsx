@@ -1,5 +1,5 @@
-import "./App.css";
 import { useState } from "react";
+import "./App.css";
 
 function App() {
   const [greeting, setGreeting] = useState("Greeting Message");
